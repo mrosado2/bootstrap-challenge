@@ -51,7 +51,7 @@
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="#about">About Me</a></li>
 								<li><a href="#moar">Moar Stuff</a></li>
-								<li><a href="https://github.com/rlewis2892/bootstrap-challenge-demo" target="_blank"><i class="fa fa-github"></i>&nbsp;&nbsp;GitHub</a></li>
+								<li><a href="https://github.com/mrosado/bootstrap-challenge-demo" target="_blank"><i class="fa fa-github"></i>&nbsp;&nbsp;GitHub</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
