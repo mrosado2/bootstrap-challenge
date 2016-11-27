@@ -125,7 +125,6 @@
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
-
 						<div class="col-sm-3">
 							<div class="text-center m-b-2">
 								<img src="http://www.fillmurray.com/100/100" alt="fillmurray.com" class="img-responsive img-circle img-thumbnail">
